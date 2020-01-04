@@ -1,7 +1,7 @@
 # Python3 program to add two numbers 
 
-number1 = input("First number: ") 
-number2 = input("\nSecond number: ") 
+number1 = 1
+number2 = 2
 
 # Adding two numbers 
 # User might also enter float numbers 
